@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "もらい泣き",
+  "base_artist": "一青窈",
+  "createdAt": "2026-01-13T12:48:51.332025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もらい泣き(instrumental)",
+      "artist": "Yo Hitoto",
+      "has_synced": false,
+      "path": "select/01_もらい泣き(instrumental)_Yo_Hitoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もらい泣き",
+      "artist": "一青窈",
+      "has_synced": false,
+      "path": "select/02_もらい泣き_一青窈.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もらい泣き (instrumental)",
+      "artist": "一青窈",
+      "has_synced": false,
+      "path": "select/03_もらい泣き_(instrumental)_一青窈.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もらい泣き",
+      "artist": "Yo Hitoto",
+      "has_synced": true,
+      "path": "select/04_もらい泣き_Yo_Hitoto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もらい泣き - Morainaki",
+      "artist": "Yo Hitoto",
+      "has_synced": true,
+      "path": "select/05_もらい泣き_-_Morainaki_Yo_Hitoto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もらい泣き",
+      "artist": "一青 窈",
+      "has_synced": false,
+      "path": "select/pl_01_もらい泣き_一青_窈.txt"
+    }
+  ]
+}
